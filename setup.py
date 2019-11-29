@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 setuptools.setup(
     name='ai',  
     version='0.1',
-    scripts=['ai'] ,
+    #scripts=['ai'] ,
     author="Ryan Moos",
     author_email="",
     description="An AI Package for Processing, Modeling, Evaluating...",
