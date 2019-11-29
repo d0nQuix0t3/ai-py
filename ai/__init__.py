@@ -1,5 +1,5 @@
 
 # Inside of __init__.py
-from . import Test
+from .Text import PreProccessing
 #from .Text.PreProcessing import *
 #from ai.Model import *
